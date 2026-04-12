@@ -1,4 +1,4 @@
-**📌 Repository Overview**
+## **📌 Repository Overview**
 
 This project demonstrates practical implementations of:
 Image Processing Fundamentals
@@ -8,17 +8,21 @@ Object Detection Techniques (TBD)
 Data Augmentation & Model Training (TBD)
 
 
+**📁 Course Notebooks**
+
 📁 Basic Image Processing
-  Image manipulation using OpenCV & PIL
-  Histogram analysis
-  Image transformations
-  Spatial filtering
+
+  - Image manipulation using OpenCV & PIL
+  - Histogram analysis
+  - Image transformations
+  - Spatial filtering
+
 
 📁 Machine Learning
-  K-Nearest Neighbors (KNN)
-  Logistic Regression
-  Support Vector Machines (SVM)
-  Feature extraction & classification
+  - K-Nearest Neighbors (KNN)
+  - Logistic Regression
+  - Support Vector Machines (SVM)
+  - Feature extraction & classification
 
 
 
@@ -28,22 +32,23 @@ Data Augmentation & Model Training (TBD)
 **🧠 Machine Learning & Deep Learning Libraries Used**
 
 This repository utilizes the following ML & Data Science libraries:
-
+```
 Core Libraries
 Python
 NumPy
 Pandas
 Matplotlib
 Seaborn
-
+```
 
 
 **📊 Topics Covered**
-  Image Processing
-  Computer Vision
-  Machine Learning
-  Deep Learning
-  Convolutional Neural Networks
-  Object Detection
-  Data Augmentation
-  Image Classification
+
+  1. Image Processing
+  2. Computer Vision
+  3. Machine Learning
+  4. Deep Learning
+  5. Convolutional Neural Networks
+  6. Object Detection
+  7. Data Augmentation
+  8. Image Classification
