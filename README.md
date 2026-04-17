@@ -1,11 +1,12 @@
 ## **📌 Repository Overview**
 
 This project demonstrates practical implementations of:
-Image Processing Fundamentals
-Machine Learning for Computer Vision
-Deep Learning (CNNs) - (TBD)
-Object Detection Techniques (TBD)
-Data Augmentation & Model Training (TBD)
+
+-  Machine Learning for Computer Vision, 
+-  Deep Learning (CNNs) - (TBD), 
+-  Image Processing Fundamentals, 
+-  Object Detection Techniques (TBD), 
+-  Data Augmentation & Model Training (TBD), 
 
 
 **📁 Course Notebooks**
