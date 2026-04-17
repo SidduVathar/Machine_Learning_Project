@@ -1,0 +1,15 @@
+Introduction to Computer vision, Image processing and Machine Leaning.
+
+- Providing Computer the ability to see and understand the digital Image.
+
+Technology :
+Slow -> Faster
+Expensive -> Cheap
+Inconvenient -> Convenient
+Manual -> Automated
+Unscalable -> Scalable
+Difficult -> Easy
+
+
+- It has application all kind of sector or industries.
+
