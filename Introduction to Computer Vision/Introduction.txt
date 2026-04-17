@@ -12,4 +12,13 @@ Difficult -> Easy
 
 
 - It has application all kind of sector or industries.
+Example: Object detection, Determine the level of rust in a image, Automobiles, Medical Technology
+
+Recent research in Computer Vision:
+1. Detecting object in images. Detecting correctly and efficiently in self-driving.
+2. Since video streams from camera feeds of these cars need to be analyzed for car to avoid obstacles.
+3. Training doctors to accurately detect cancer takes years of education and experiance. Computer vision can help doctor to detect the canacer.
+
+
+
 

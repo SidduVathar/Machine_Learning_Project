@@ -1,0 +1,21 @@
+Learning Objectives
+In this section you will find info:
+Work with images in Python using the PIL library.
+Use the ID function to find an object's memory address.
+Flip an image using PIL and OpenCV methods.
+Use the PIL “ImageDraw” module to draw on PIL Image objects.
+Crop an image using PIL and OpenCV methods.
+Manipulate images both as OpenCV arrays and PIL image objects.
+Use a histogram to optimize image characteristics.
+Perform operations like shift, reshape, and rotate on an image.
+Describe edge detection, median filters, and linear filtering.
+Determine present pixel values using spatial operations in OpenCV.
+
+
+-An digital Image have a intensity between zero and 255.
+-Darker shades of gray have lower values with zero as black and lighter shades have higher values with 255 as white.
+-A image is combination of three colors Red, green and blue refred as RGB. Each channel is an image
+-Red channel is an image with intensity value between 0 to 255.
+-We can access each channel with index value and access the pixel intensity using row and column index.
+-Two popular images .jpg(Joint photographic Expert Group image) and PNG(portable network graphics)
+-For instance the sizze of the image is (512, 512, 3). 512 pixels, 3-RGB
