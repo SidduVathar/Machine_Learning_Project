@@ -3,10 +3,10 @@
 This project demonstrates practical implementations of:
 
 -  Machine Learning for Computer Vision, 
--  Deep Learning (CNNs) - (TBD), 
+-  Deep Learning (CNNs) - (INP), 
 -  Image Processing Fundamentals, 
--  Object Detection Techniques (TBD), 
--  Data Augmentation & Model Training (TBD), 
+-  Object Detection Techniques (INP), 
+-  Data Augmentation & Model Training (INP), 
 
 
 **📁 Course Notebooks**
