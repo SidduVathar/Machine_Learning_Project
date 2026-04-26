@@ -39,6 +39,8 @@ Python
 NumPy
 Pandas
 Matplotlib
+PyTorch
+Scikit-Learn
 Seaborn
 ```
 
