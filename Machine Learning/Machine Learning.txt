@@ -1,0 +1,18 @@
+Learning and Project Objectives
+1. K-Nearest Neighbors
+2. Feature Extraction
+3. Linear classifiers
+
+
+K-Nearest Neighbor (KNN) image classification algorithm.
+Use a K-Nearest-Neighbor (K-NN) classifier to classify objects in a dataset.
+Linear classifiers and the role they have in advanced classification methods.
+Describe image classification.
+Use a plane to automatically classify an image.
+Train models with more data using Mini-Batch Gradient Descent.
+Create a logistic regression model using Pytorch.
+Explain what the argmax function does.
+Create a Softmax classifier using Pytorch.
+Describe Support Vector Machines (or SVM) and how it is used for classification.
+Compare SVM and Logistic Regression with K-Fold Cross Validation.
+Describe the effect a shift in an image has on a feature vector.
