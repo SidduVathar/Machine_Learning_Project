@@ -2,6 +2,7 @@
 
 This project demonstrates practical implementations of:
 
+-  Machine Learning,
 -  Machine Learning for Computer Vision, 
 -  Deep Learning (CNNs) - (INP), 
 -  Image Processing Fundamentals, 
